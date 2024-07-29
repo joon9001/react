@@ -1,0 +1,19 @@
+.App {
+  padding-left: 20px;
+  padding-top: 30px;;
+}
+
+.blackbar{
+  background-color: black;
+  width: 100%;
+  color: white;
+  padding: 5px;
+  display: flex;
+}
+
+/* 이미지 읽기용 */
+.img_bg{
+  width: 350px;
+  height: 450px;
+  background-image: url('./pic2.png');
+}
